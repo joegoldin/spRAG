@@ -16,3 +16,4 @@ pandas
 weaviate-client
 cassandra-driver
 cassio
+ollama
