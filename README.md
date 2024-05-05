@@ -89,6 +89,7 @@ The VectorDB component stores the embedding vectors, as well as a small amount o
 
 The currently available options are:
 - `BasicVectorDB`
+- `CassandraVectorDB`
 - `WeaviateVectorDB`
 
 #### ChunkDB
